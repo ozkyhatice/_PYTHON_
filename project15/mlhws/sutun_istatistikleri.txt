@@ -1,0 +1,273 @@
+
+
+**********Sutun Adi: work_year ****************
+
+Genel İstatistikler:
+count    9355.000000
+mean     2022.760449
+std         0.519470
+min      2020.000000
+25%      2023.000000
+50%      2023.000000
+75%      2023.000000
+max      2023.000000
+Name: work_year, dtype: float64
+
+Yüzdelik Değerler:
+           Value Counts  Percentage
+work_year                          
+2023               7453   79.668626
+2022               1634   17.466595
+2021                197    2.105826
+2020                 71    0.758952
+
+**********Sutun Adi: job_title ****************
+
+Genel İstatistikler:
+count              9355
+unique              125
+top       Data Engineer
+freq               2195
+Name: job_title, dtype: object
+
+Yüzdelik Değerler:
+                                Value Counts  Percentage
+job_title                                               
+Data Engineer                           2195   23.463389
+Data Scientist                          1989   21.261358
+Data Analyst                            1388   14.836986
+Machine Learning Engineer                991   10.593266
+Applied Scientist                        272    2.907536
+...                                      ...         ...
+Consultant Data Engineer                   1    0.010689
+Sales Data Analyst                         1    0.010689
+Managing Director Data Science             1    0.010689
+AWS Data Architect                         1    0.010689
+Deep Learning Researcher                   1    0.010689
+
+[125 rows x 2 columns]
+
+**********Sutun Adi: job_category ****************
+
+Genel İstatistikler:
+count                          9355
+unique                           10
+top       Data Science and Research
+freq                           3014
+Name: job_category, dtype: object
+
+Yüzdelik Değerler:
+                                Value Counts  Percentage
+job_category                                            
+Data Science and Research               3014   32.218065
+Data Engineering                        2260   24.158204
+Data Analysis                           1457   15.574559
+Machine Learning and AI                 1428   15.264564
+Leadership and Management                503    5.376804
+BI and Visualization                     313    3.345804
+Data Architecture and Modeling           259    2.768573
+Data Management and Strategy              61    0.652058
+Data Quality and Operations               55    0.587921
+Cloud and Database                         5    0.053447
+
+**********Sutun Adi: salary_currency ****************
+
+Genel İstatistikler:
+count     9355
+unique      11
+top        USD
+freq      8591
+Name: salary_currency, dtype: object
+
+Yüzdelik Değerler:
+                 Value Counts  Percentage
+salary_currency                          
+USD                      8591   91.833244
+GBP                       347    3.709246
+EUR                       340    3.634420
+CAD                        38    0.406200
+AUD                        11    0.117584
+PLN                         7    0.074826
+SGD                         6    0.064137
+CHF                         5    0.053447
+BRL                         4    0.042758
+TRY                         3    0.032068
+DKK                         3    0.032068
+
+**********Sutun Adi: salary ****************
+
+Genel İstatistikler:
+count      9355.000000
+mean     149927.981293
+std       63608.835387
+min       14000.000000
+25%      105200.000000
+50%      143860.000000
+75%      187000.000000
+max      450000.000000
+Name: salary, dtype: float64
+
+Yüzdelik Değerler:
+        Value Counts  Percentage
+salary                          
+150000           212    2.266168
+100000           203    2.169963
+130000           194    2.073757
+160000           185    1.977552
+120000           172    1.838589
+...              ...         ...
+194100             1    0.010689
+152300             1    0.010689
+144700             1    0.010689
+177200             1    0.010689
+412000             1    0.010689
+
+[1507 rows x 2 columns]
+
+**********Sutun Adi: salary_in_usd ****************
+
+Genel İstatistikler:
+count      9355.000000
+mean     150299.495564
+std       63177.372024
+min       15000.000000
+25%      105700.000000
+50%      143000.000000
+75%      186723.000000
+max      450000.000000
+Name: salary_in_usd, dtype: float64
+
+Yüzdelik Değerler:
+               Value Counts  Percentage
+salary_in_usd                          
+150000                  206    2.202031
+130000                  189    2.020310
+160000                  183    1.956173
+100000                  177    1.892036
+120000                  161    1.721005
+...                     ...         ...
+65100                     1    0.010689
+44640                     1    0.010689
+239080                    1    0.010689
+129562                    1    0.010689
+412000                    1    0.010689
+
+[1786 rows x 2 columns]
+
+**********Sutun Adi: employee_residence ****************
+
+Genel İstatistikler:
+count              9355
+unique               83
+top       United States
+freq               8086
+Name: employee_residence, dtype: object
+
+Yüzdelik Değerler:
+                    Value Counts  Percentage
+employee_residence                          
+United States               8086   86.435061
+United Kingdom               442    4.724746
+Canada                       224    2.394441
+Spain                        117    1.250668
+Germany                       66    0.705505
+...                          ...         ...
+Andorra                        1    0.010689
+Qatar                          1    0.010689
+Mauritius                      1    0.010689
+Uganda                         1    0.010689
+Malta                          1    0.010689
+
+[83 rows x 2 columns]
+
+**********Sutun Adi: experience_level ****************
+
+Genel İstatistikler:
+count       9355
+unique         4
+top       Senior
+freq        6709
+Name: experience_level, dtype: object
+
+Yüzdelik Değerler:
+                  Value Counts  Percentage
+experience_level                          
+Senior                    6709   71.715660
+Mid-level                 1869   19.978621
+Entry-level                496    5.301978
+Executive                  281    3.003741
+
+**********Sutun Adi: employment_type ****************
+
+Genel İstatistikler:
+count          9355
+unique            4
+top       Full-time
+freq           9310
+Name: employment_type, dtype: object
+
+Yüzdelik Değerler:
+                 Value Counts  Percentage
+employment_type                          
+Full-time                9310   99.518974
+Contract                   19    0.203100
+Part-time                  15    0.160342
+Freelance                  11    0.117584
+
+**********Sutun Adi: work_setting ****************
+
+Genel İstatistikler:
+count          9355
+unique            3
+top       In-person
+freq           5730
+Name: work_setting, dtype: object
+
+Yüzdelik Değerler:
+              Value Counts  Percentage
+work_setting                          
+In-person             5730   61.250668
+Remote                3434   36.707643
+Hybrid                 191    2.041689
+
+**********Sutun Adi: company_location ****************
+
+Genel İstatistikler:
+count              9355
+unique               70
+top       United States
+freq               8132
+Name: company_location, dtype: object
+
+Yüzdelik Değerler:
+                  Value Counts  Percentage
+company_location                          
+United States             8132   86.926777
+United Kingdom             449    4.799572
+Canada                     226    2.415820
+Spain                      113    1.207910
+Germany                     72    0.769642
+...                        ...         ...
+Gibraltar                    1    0.010689
+Ecuador                      1    0.010689
+Andorra                      1    0.010689
+Mauritius                    1    0.010689
+Malta                        1    0.010689
+
+[70 rows x 2 columns]
+
+**********Sutun Adi: company_size ****************
+
+Genel İstatistikler:
+count     9355
+unique       3
+top          M
+freq      8448
+Name: company_size, dtype: object
+
+Yüzdelik Değerler:
+              Value Counts  Percentage
+company_size                          
+M                     8448   90.304650
+L                      748    7.995724
+S                      159    1.699626

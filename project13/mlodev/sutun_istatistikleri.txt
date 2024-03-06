@@ -1,0 +1,535 @@
+
+
+**********Sutun Adi: anxiety_level ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean       11.063636
+std         6.117558
+min         0.000000
+25%         6.000000
+50%        11.000000
+75%        16.000000
+max        21.000000
+Name: anxiety_level, dtype: float64
+
+Yüzdelik Değerler:
+               Value Counts  Percentage
+anxiety_level                          
+13                       67    6.090909
+10                       63    5.727273
+19                       61    5.545455
+21                       61    5.545455
+9                        60    5.454545
+12                       56    5.090909
+18                       55    5.000000
+11                       54    4.909091
+6                        52    4.727273
+15                       51    4.636364
+7                        51    4.636364
+14                       51    4.636364
+3                        48    4.363636
+17                       47    4.272727
+1                        46    4.181818
+2                        46    4.181818
+16                       45    4.090909
+8                        44    4.000000
+5                        40    3.636364
+20                       40    3.636364
+4                        33    3.000000
+0                        29    2.636364
+
+**********Sutun Adi: self_esteem ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean       17.777273
+std         8.944599
+min         0.000000
+25%        11.000000
+50%        19.000000
+75%        26.000000
+max        30.000000
+Name: self_esteem, dtype: float64
+
+Yüzdelik Değerler:
+             Value Counts  Percentage
+self_esteem                          
+25                     83    7.545455
+30                     60    5.454545
+27                     59    5.363636
+26                     58    5.272727
+28                     53    4.818182
+29                     52    4.727273
+15                     50    4.545455
+23                     45    4.090909
+17                     40    3.636364
+21                     38    3.454545
+16                     37    3.363636
+11                     37    3.363636
+20                     36    3.272727
+13                     32    2.909091
+6                      31    2.818182
+24                     30    2.727273
+7                      28    2.545455
+19                     28    2.545455
+1                      28    2.545455
+22                     27    2.454545
+8                      26    2.363636
+9                      25    2.272727
+3                      25    2.272727
+18                     24    2.181818
+0                      24    2.181818
+12                     23    2.090909
+10                     21    1.909091
+14                     21    1.909091
+2                      21    1.909091
+4                      19    1.727273
+5                      19    1.727273
+
+**********Sutun Adi: mental_health_history ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        0.492727
+std         0.500175
+min         0.000000
+25%         0.000000
+50%         0.000000
+75%         1.000000
+max         1.000000
+Name: mental_health_history, dtype: float64
+
+Yüzdelik Değerler:
+                       Value Counts  Percentage
+mental_health_history                          
+0                               558   50.727273
+1                               542   49.272727
+
+**********Sutun Adi: depression ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean       12.555455
+std         7.727008
+min         0.000000
+25%         6.000000
+50%        12.000000
+75%        19.000000
+max        27.000000
+Name: depression, dtype: float64
+
+Yüzdelik Değerler:
+            Value Counts  Percentage
+depression                          
+10                    66    6.000000
+13                    63    5.727273
+12                    63    5.727273
+14                    57    5.181818
+8                     49    4.454545
+3                     47    4.272727
+11                    46    4.181818
+9                     46    4.181818
+0                     44    4.000000
+5                     43    3.909091
+7                     42    3.818182
+18                    41    3.727273
+6                     36    3.272727
+22                    36    3.272727
+1                     36    3.272727
+27                    36    3.272727
+2                     36    3.272727
+4                     35    3.181818
+24                    34    3.090909
+26                    33    3.000000
+20                    33    3.000000
+17                    30    2.727273
+19                    29    2.636364
+21                    28    2.545455
+23                    27    2.454545
+25                    27    2.454545
+15                    21    1.909091
+16                    16    1.454545
+
+**********Sutun Adi: headache ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        2.508182
+std         1.409356
+min         0.000000
+25%         1.000000
+50%         3.000000
+75%         3.000000
+max         5.000000
+Name: headache, dtype: float64
+
+Yüzdelik Değerler:
+          Value Counts  Percentage
+headache                          
+1                  331   30.090909
+3                  287   26.090909
+2                  181   16.454545
+4                  140   12.727273
+5                  129   11.727273
+0                   32    2.909091
+
+**********Sutun Adi: blood_pressure ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        2.181818
+std         0.833575
+min         1.000000
+25%         1.000000
+50%         2.000000
+75%         3.000000
+max         3.000000
+Name: blood_pressure, dtype: float64
+
+Yüzdelik Değerler:
+                Value Counts  Percentage
+blood_pressure                          
+3                        500   45.454545
+1                        300   27.272727
+2                        300   27.272727
+
+**********Sutun Adi: sleep_quality ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        2.660000
+std         1.548383
+min         0.000000
+25%         1.000000
+50%         2.500000
+75%         4.000000
+max         5.000000
+Name: sleep_quality, dtype: float64
+
+Yüzdelik Değerler:
+               Value Counts  Percentage
+sleep_quality                          
+1                       328   29.818182
+5                       192   17.454545
+2                       188   17.090909
+4                       188   17.090909
+3                       170   15.454545
+0                        34    3.090909
+
+**********Sutun Adi: breathing_problem ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        2.753636
+std         1.400713
+min         0.000000
+25%         2.000000
+50%         3.000000
+75%         4.000000
+max         5.000000
+Name: breathing_problem, dtype: float64
+
+Yüzdelik Değerler:
+                   Value Counts  Percentage
+breathing_problem                          
+2                           325   29.545455
+4                           287   26.090909
+1                           179   16.272727
+3                           139   12.636364
+5                           127   11.545455
+0                            43    3.909091
+
+**********Sutun Adi: noise_level ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        2.649091
+std         1.328127
+min         0.000000
+25%         2.000000
+50%         3.000000
+75%         3.000000
+max         5.000000
+Name: noise_level, dtype: float64
+
+Yüzdelik Değerler:
+             Value Counts  Percentage
+noise_level                          
+2                     313   28.454545
+3                     289   26.272727
+1                     188   17.090909
+4                     137   12.454545
+5                     137   12.454545
+0                      36    3.272727
+
+**********Sutun Adi: living_conditions ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        2.518182
+std         1.119208
+min         0.000000
+25%         2.000000
+50%         2.000000
+75%         3.000000
+max         5.000000
+Name: living_conditions, dtype: float64
+
+Yüzdelik Değerler:
+                   Value Counts  Percentage
+living_conditions                          
+2                           346   31.454545
+3                           327   29.727273
+4                           189   17.181818
+1                           176   16.000000
+5                            33    3.000000
+0                            29    2.636364
+
+**********Sutun Adi: safety ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        2.737273
+std         1.406171
+min         0.000000
+25%         2.000000
+50%         2.000000
+75%         4.000000
+max         5.000000
+Name: safety, dtype: float64
+
+Yüzdelik Değerler:
+        Value Counts  Percentage
+safety                          
+2                348   31.636364
+4                184   16.727273
+1                184   16.727273
+3                180   16.363636
+5                171   15.545455
+0                 33    3.000000
+
+**********Sutun Adi: basic_needs ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        2.772727
+std         1.433761
+min         0.000000
+25%         2.000000
+50%         3.000000
+75%         4.000000
+max         5.000000
+Name: basic_needs, dtype: float64
+
+Yüzdelik Değerler:
+             Value Counts  Percentage
+basic_needs                          
+2                     335   30.454545
+3                     190   17.272727
+5                     189   17.181818
+1                     173   15.727273
+4                     173   15.727273
+0                      40    3.636364
+
+**********Sutun Adi: academic_performance ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        2.772727
+std         1.414594
+min         0.000000
+25%         2.000000
+50%         2.000000
+75%         4.000000
+max         5.000000
+Name: academic_performance, dtype: float64
+
+Yüzdelik Değerler:
+                      Value Counts  Percentage
+academic_performance                          
+2                              348   31.636364
+4                              188   17.090909
+1                              185   16.818182
+5                              182   16.545455
+3                              169   15.363636
+0                               28    2.545455
+
+**********Sutun Adi: study_load ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        2.621818
+std         1.315781
+min         0.000000
+25%         2.000000
+50%         2.000000
+75%         3.000000
+max         5.000000
+Name: study_load, dtype: float64
+
+Yüzdelik Değerler:
+            Value Counts  Percentage
+study_load                          
+2                    333   30.272727
+3                    275   25.000000
+1                    185   16.818182
+4                    142   12.909091
+5                    128   11.636364
+0                     37    3.363636
+
+**********Sutun Adi: teacher_student_relationship ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        2.648182
+std         1.384579
+min         0.000000
+25%         2.000000
+50%         2.000000
+75%         4.000000
+max         5.000000
+Name: teacher_student_relationship, dtype: float64
+
+Yüzdelik Değerler:
+                              Value Counts  Percentage
+teacher_student_relationship                          
+2                                      353   32.090909
+4                                      192   17.454545
+1                                      190   17.272727
+3                                      183   16.636364
+5                                      140   12.727273
+0                                       42    3.818182
+
+**********Sutun Adi: future_career_concerns ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        2.649091
+std         1.529375
+min         0.000000
+25%         1.000000
+50%         2.000000
+75%         4.000000
+max         5.000000
+Name: future_career_concerns, dtype: float64
+
+Yüzdelik Değerler:
+                        Value Counts  Percentage
+future_career_concerns                          
+1                                327   29.727273
+2                                199   18.090909
+5                                186   16.909091
+4                                185   16.818182
+3                                173   15.727273
+0                                 30    2.727273
+
+**********Sutun Adi: social_support ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        1.881818
+std         1.047826
+min         0.000000
+25%         1.000000
+50%         2.000000
+75%         3.000000
+max         3.000000
+Name: social_support, dtype: float64
+
+Yüzdelik Değerler:
+                Value Counts  Percentage
+social_support                          
+3                        458   41.636364
+1                        412   37.454545
+2                        142   12.909091
+0                         88    8.000000
+
+**********Sutun Adi: peer_pressure ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        2.734545
+std         1.425265
+min         0.000000
+25%         2.000000
+50%         2.000000
+75%         4.000000
+max         5.000000
+Name: peer_pressure, dtype: float64
+
+Yüzdelik Değerler:
+               Value Counts  Percentage
+peer_pressure                          
+2                       355   32.272727
+5                       181   16.454545
+1                       181   16.454545
+4                       174   15.818182
+3                       172   15.636364
+0                        37    3.363636
+
+**********Sutun Adi: extracurricular_activities ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        2.767273
+std         1.417562
+min         0.000000
+25%         2.000000
+50%         2.500000
+75%         4.000000
+max         5.000000
+Name: extracurricular_activities, dtype: float64
+
+Yüzdelik Değerler:
+                            Value Counts  Percentage
+extracurricular_activities                          
+2                                    332   30.181818
+4                                    198   18.000000
+1                                    184   16.727273
+3                                    178   16.181818
+5                                    174   15.818182
+0                                     34    3.090909
+
+**********Sutun Adi: bullying ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        2.617273
+std         1.530958
+min         0.000000
+25%         1.000000
+50%         3.000000
+75%         4.000000
+max         5.000000
+Name: bullying, dtype: float64
+
+Yüzdelik Değerler:
+          Value Counts  Percentage
+bullying                          
+1                  335   30.454545
+3                  199   18.090909
+4                  187   17.000000
+5                  173   15.727273
+2                  167   15.181818
+0                   39    3.545455
+
+**********Sutun Adi: stress_level ****************
+
+Genel İstatistikler:
+count    1100.000000
+mean        0.996364
+std         0.821673
+min         0.000000
+25%         0.000000
+50%         1.000000
+75%         2.000000
+max         2.000000
+Name: stress_level, dtype: float64
+
+Yüzdelik Değerler:
+              Value Counts  Percentage
+stress_level                          
+0                      373   33.909091
+2                      369   33.545455
+1                      358   32.545455
